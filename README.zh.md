@@ -36,7 +36,7 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 
 # 演示 | Demo
 
-<a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+<a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Log-Plus-Logo" src="https://gitee.com/pg-liudong/wechat-pic-bed/raw/master/202201142233788.jpeg">
 </a>
 
