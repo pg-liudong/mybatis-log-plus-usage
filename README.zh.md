@@ -21,6 +21,21 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 
 交流 QQ  群：908942659 ； 微信加微入群：xin2014555
 
+# 安装 | Install
+
+- **在线安装:**
+
+    插件市场审核中，后续更新...
+- **手动安装:**
+
+    2020.3 以上版本下载：
+    >
+    [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)
+
+    2020.2 以下版本下载：
+    >
+    [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)
+
 # 特征 | Features
 
 
