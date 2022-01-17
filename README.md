@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
-   <img alt="Mybatis-Plus-Logo" src="https://gitee.com/pg-liudong/wechat-pic-bed/raw/master/202201151008421.svg">
+   <img alt="Mybatis-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/mybatis-green.svg">
   </a>
 </p>
 
