@@ -21,6 +21,21 @@ Mybatis log plus is an idea plug-in, which can restore the mybatis log output fr
 
 QQ：908942659 ； wechat：xin2014555
 
+# Install
+
+- **Online installation:**
+
+    Plug in market review, subsequent updates...
+- **Manual installation:**
+
+    IntelliJ IDEA version > 2020.3：
+    >
+    [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)
+
+    IntelliJ IDEA version < 2020.2：
+    >
+    [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)
+
 # Features
 
 
