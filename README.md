@@ -36,7 +36,7 @@ QQ：908942659 ； wechat：xin2014555
 
 # Demo
 
-<a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+<a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201142233788.jpg">
 </a>
 
