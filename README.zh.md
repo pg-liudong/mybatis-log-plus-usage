@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
-    <img alt="maven" src="https://img.shields.io/badge/version-1.0.0-0A7DBA">
+    <img alt="maven" src="https://img.shields.io/badge/version-2.0.0-0A7DBA">
   </a>
 </p>
 
