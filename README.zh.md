@@ -55,3 +55,10 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
    <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201142233788.jpg">
 </a>
 
+# 捐赠 | Donate
+
+如果觉得插件很赞，为你节约了不少时间，那么就请作者喝杯咖啡吧~☕☕☕,非常感谢.您的支持是鼓励我前行的动力,无论金额多少都足够表达您这份心意。
+
+| ![微信](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/wechat.jpg) | ![支付宝](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/AliPay.jpg) |
+| --- | --- |
+
