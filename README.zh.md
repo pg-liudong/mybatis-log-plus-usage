@@ -62,3 +62,10 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 | ![微信](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/wechat.jpg) | ![支付宝](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/AliPay.jpg) |
 | --- | --- |
 
+# 微信公众号 | WeChat official account
+
+不定期分享编程技术干货笔记，不限于算法、数据库、Spring Boot、微服务、高并发、JVM、Docker、ELK、编程技巧等相关知识，期待与您共同进步！
+
+| ![微信公众号](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/微信公众号.png) |
+| --- |
+
