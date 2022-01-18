@@ -55,3 +55,9 @@ QQ：908942659 ； wechat：xin2014555
    <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201142233788.jpg">
 </a>
 
+# Donate
+
+If you think the plug-in is great and saves you a lot of time, invite the author to have a cup of coffee~ ☕☕☕, Thank you. Your support is the driving force to encourage us to move forward. No matter how much it is, it is enough to express your intention.
+| ![微信](https://gitee.com/pg-liudong/pic-bed/raw/master/wechat.jpg) | ![支付宝](https://gitee.com/pg-liudong/pic-bed/raw/master/AliPay.jpg) |
+| --- | --- |
+
