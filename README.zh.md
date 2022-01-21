@@ -25,19 +25,19 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 
 - **在线安装:**
 
-IDEA --> Setting --> Plugins --> 搜索 Mybatis Log Plus
+    IDEA --> Setting --> Plugins --> 搜索 Mybatis Log Plus
 
-<a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
-   <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212305520.png">
-</a>
+    <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
+       <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212305520.png">
+    </a>
 
 - **手动安装:**
 
-由于2020年9月IntelliJ项目的源代码迁移到了JDK11，有基于IntelliJ的IDE2020.3及以上版本都将需要JDK11才能启动。所以目前开发了两个版本，适用IDEA版本如下：
-|version              |IntelliJ IDEA version|
-|:--------------------------:|:--------------------------------|
-| [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)|IDEA 2020.2 ~ IDEA 2021.3|
-| [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)| IDEA 2017.2 ~ IDEA 2020.2|
+    由于2020年9月IntelliJ项目的源代码迁移到了JDK11，有基于IntelliJ的IDE2020.3及以上版本都将需要JDK11才能启动。所以目前开发了两个版本，适用IDEA版本如下：
+    |version              |IntelliJ IDEA version|
+    |:--------------------------:|:--------------------------------|
+    | [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)|IDEA 2020.2 ~ IDEA 2021.3|
+    | [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)| IDEA 2017.2 ~ IDEA 2020.2|
 
 
 # 特征 | Features
