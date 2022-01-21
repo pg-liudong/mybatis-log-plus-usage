@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/bird-280.svg">
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
     <img alt="maven" src="https://img.shields.io/badge/version-2.0.0-0A7DBA">
   </a>
 </p>
@@ -27,7 +27,7 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 
 IDEA --> Setting --> Plugins --> 搜索 Mybatis Log Plus
 
-<a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+<a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Log-Plus-Logo" src="https://gitee.com/pg-liudong/pic-bed/raw/master/202201212215186.png">
 </a>
 
