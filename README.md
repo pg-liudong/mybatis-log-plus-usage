@@ -28,7 +28,7 @@ QQ：908942659 ； wechat：xin2014555
     IDEA --> Setting --> Plugins --> Search 'Mybatis Log Plus'
     
     <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
-        <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212235789.png">
+        <img alt="Mybatis-Log-Plus-Search" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212305520.png">
     </a>
 
 - **Manual installation:**
