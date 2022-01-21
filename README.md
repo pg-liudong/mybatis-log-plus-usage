@@ -25,17 +25,21 @@ QQ：908942659 ； wechat：xin2014555
 
 - **Online installation:**
 
-    Plug in market review, subsequent updates...
+    IDEA --> Setting --> Plugins --> Search 'Mybatis Log Plus'
+    
+    <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
+        <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212235789.png">
+    </a>
+
 - **Manual installation:**
 
-    IntelliJ IDEA version > 2020.3：
-    >
-    [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)
+    Since the source code of IntelliJ project was migrated to jdk11 in September 2020, there is ide 2020 based on IntelliJ Version 3 and above will require jdk11 to start.           Therefore, two versions have been developed, and the applicable idea versions are as follows:
 
-    IntelliJ IDEA version < 2020.2：
-    >
-    [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)
-
+    |version              |IntelliJ IDEA version|
+    |:--------------------------:|:--------------------------------|
+    | [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)|IDEA 2020.2 ~ IDEA 2021.3|
+    | [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)| IDEA 2017.2 ~ IDEA 2020.2|
+  
 # Features
 
 
