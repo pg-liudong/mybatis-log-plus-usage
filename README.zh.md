@@ -28,7 +28,7 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 IDEA --> Setting --> Plugins --> 搜索 Mybatis Log Plus
 
 <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
-   <img alt="Mybatis-Log-Plus-Logo" src="https://gitee.com/pg-liudong/pic-bed/raw/master/202201212215186.png">
+   <img alt="Mybatis-Log-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202201212305520.png">
 </a>
 
 - **手动安装:**
