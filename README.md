@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/bird-280.svg">
   </a>
 </p>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitee.com/pg-liudong/mybatis-log-plus-usage">
+  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
     <img alt="maven" src="https://img.shields.io/badge/version-2.0.0-0A7DBA">
   </a>
 </p>
