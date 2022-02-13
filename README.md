@@ -5,12 +5,16 @@
 </p>
 
 <p align="center">
-  Everything is for restoring SQL, restoring SQL is for everything.
+  Encapsulation based on spring Kafka not only supports native configuration, but also adds multi data source configuration.
 </p>
 
 <p align="center">
-  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
-    <img alt="maven" src="https://img.shields.io/badge/version-2.0.0-0A7DBA">
+  <a href="https://search.maven.org/search?q=g:com.baomidou%20a:mybatis-*">
+    <img alt="maven" src="https://img.shields.io/maven-central/v/com.baomidou/mybatis-plus.svg?style=flat-square">
+  </a>
+
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img alt="code style" src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square">
   </a>
 </p>
 
