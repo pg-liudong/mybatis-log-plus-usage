@@ -9,12 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://search.maven.org/search?q=g:com.baomidou%20a:mybatis-*">
-    <img alt="maven" src="https://img.shields.io/maven-central/v/com.baomidou/mybatis-plus.svg?style=flat-square">
-  </a>
-
-  <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img alt="code style" src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square">
+  <a href="https://plugins.jetbrains.com/plugin/18429-mybatis-log-plus">
+    <img alt="maven" src="https://img.shields.io/badge/version-2.0.0-0A7DBA">
   </a>
 </p>
 
