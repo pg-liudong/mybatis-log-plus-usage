@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://github.com/pg-liudong/mybatis-log-plus-usage/blob/main/README.zh.md">
+   <img alt="中文" src="https://img.shields.io/badge/-中文-blue">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
    <img alt="Mybatis-Plus-Logo" src="https://raw.githubusercontent.com/pg-liudong/pic-bed/main/bird-280.svg">
