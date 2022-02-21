@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://github.com/pg-liudong/mybatis-log-plus-usage/blob/main/README.md">
-   <img alt="中文" src="https://img.shields.io/badge/-中文-blue">
+   <img alt="English" src="https://img.shields.io/badge/-English-blue">
   </a>
 </p>
 
