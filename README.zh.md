@@ -67,7 +67,7 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 
 # 捐赠 | Donate
 
-如果觉得插件很赞，为你节约了不少时间，那么就请作者喝杯咖啡吧~☕☕☕,非常感谢!
+如果觉得插件很赞，为你节约了不少时间，那么就请作者喝杯咖啡吧~☕☕☕，非常感谢!
 
 | ![微信](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/wechat.jpg) | ![支付宝](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/AliPay.jpg) |
 | --- | --- |
