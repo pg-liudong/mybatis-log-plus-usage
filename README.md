@@ -60,6 +60,8 @@ QQ：908942659 ； wechat：xin2014555
 
 - **Manually capture SQL**：Select the console SQL log and right-click the capture SQL menu to recover SQL.
 
+- **Format window**：You can paste the SQL log into the log window and click format to restore SQL.
+
 # Demo
 
 <a href="https://github.com/pg-liudong/mybatis-log-plus-usage">
