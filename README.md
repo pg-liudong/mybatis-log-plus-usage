@@ -43,6 +43,7 @@ QQ：908942659 ； wechat：xin2014555
 
     |version              |IntelliJ IDEA version|
     |:--------------------------:|:--------------------------------|
+    | [mybatis-log-plus-2.0.2.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.2.zip)|IDEA 2020.2 ~ IDEA 2022.1+|
     | [mybatis-log-plus-2.0.1.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.1.zip)|IDEA 2020.2 ~ IDEA 2022.1+|
     | [mybatis-log-plus-2.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.0.zip)|IDEA 2020.2 ~ IDEA 2021.3|
     | [mybatis-log-plus-1.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-1.0.0.zip)|IDEA 2017.2 ~ IDEA 2020.2|
