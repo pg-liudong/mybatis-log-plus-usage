@@ -25,7 +25,7 @@
 
 Mybatis log plus is an idea plug-in, which can restore the mybatis log output from the console into executable SQL statements, so as to help us quickly troubleshoot SQL problems encountered in the development process.
 
-QQ：908942659 ； wechat：xin2014555
+If you have any questions, welcome to join the group: QQ：908942659 (not often)； wechat：xin2014555
 
 # Install
 
