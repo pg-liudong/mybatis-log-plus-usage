@@ -59,7 +59,7 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
 - **自定义颜色**：可以根据需要自定义不同sql语句类型的颜色。
 
 - **手动捕捉SQL**：选择控制台sql日志并单击右键“Capture sql”菜单以恢复sql。
-- 
+
 - **格式化窗口**：你可以将SQL日志粘贴置日志窗口，点击格式化还原SQL。
 
 # 演示 | Demo
