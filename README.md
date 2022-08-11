@@ -74,6 +74,6 @@ If you have any questions, welcome to join the group: QQ：908942659 (not often)
 # Donate
 
 If you think the plug-in is great and saves you a lot of time, invite the author to have a cup of coffee~ ☕☕☕, Thank you. Your support is the driving force to encourage us to move forward. No matter how much it is, it is enough to express your intention.
-| ![微信](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/wechat.jpg) | ![支付宝](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/AliPay.jpg) |[![Paypal](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202202101456821.png)](https://paypal.me/3228389063) |
+| ![微信](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/wechat.jpg) | ![支付宝](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/AliPay.jpg) |[![Paypal](https://raw.githubusercontent.com/pg-liudong/pic-bed/main/202202101456821.png)](https://www.paypal.com/paypalme/pgliudong) |
 | --- | --- | --- |
 
