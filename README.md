@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://plugins.jetbrains.com/plugin/18429-mybatis-log-plus">
-    <img alt="maven" src="https://img.shields.io/badge/version-2.0.4-0A7DBA">
+    <img alt="maven" src="https://img.shields.io/badge/version-2.0.5-0A7DBA">
   </a>
 </p>
 
