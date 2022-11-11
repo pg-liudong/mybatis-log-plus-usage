@@ -43,6 +43,7 @@ If you have any questions, welcome to join the group: QQ：908942659 (not often)
 
     |version              |IntelliJ IDEA version|
     |:--------------------------:|:--------------------------------|
+    | [mybatis-log-plus-2.0.5.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.5.zip)|IDEA 2020.2 ~ IDEA 2022.2+|
     | [mybatis-log-plus-2.0.4.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.4.zip)|IDEA 2020.2 ~ IDEA 2022.2+|
     | [mybatis-log-plus-2.0.3.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.3.zip)|IDEA 2020.2 ~ IDEA 2022.1+|
     | [mybatis-log-plus-2.0.2.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.2.zip)|IDEA 2020.2 ~ IDEA 2022.1+|
