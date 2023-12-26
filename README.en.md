@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://plugins.jetbrains.com/plugin/18429-mybatis-log-plus">
-    <img alt="maven" src="https://img.shields.io/badge/version-3.0.2-0A7DBA">
+    <img alt="maven" src="https://img.shields.io/badge/version-3.0.3-0A7DBA">
   </a>
 </p>
 
@@ -43,8 +43,9 @@ If you have any questions, welcome to join the group: QQ：908942659 (not often)
 
     |version              |IntelliJ IDEA version|
     |:--------------------------:|:--------------------------------|
-    | [mybatis-log-plus-3.0.2.zip](https://gitee.com/pg-liudong/mybatis-log-plus-usage/raw/master/mybatis-log-plus-3.0.0.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
-    | [mybatis-log-plus-3.0.1.zip](https://gitee.com/pg-liudong/mybatis-log-plus-usage/raw/master/mybatis-log-plus-3.0.0.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
+    | [mybatis-log-plus-3.0.3.zip](https://gitee.com/pg-liudong/mybatis-log-plus-usage/raw/master/mybatis-log-plus-3.0.3.zip)|IDEA 2022.2 ~ IDEA 2023.3+|
+    | [mybatis-log-plus-3.0.2.zip](https://gitee.com/pg-liudong/mybatis-log-plus-usage/raw/master/mybatis-log-plus-3.0.2.zip)|IDEA 2022.2 ~ IDEA 2023.2+|
+    | [mybatis-log-plus-3.0.1.zip](https://gitee.com/pg-liudong/mybatis-log-plus-usage/raw/master/mybatis-log-plus-3.0.1.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
     | [mybatis-log-plus-3.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.0.zip)|IDEA 2022.2 ~ IDEA 2022.3+|
     | [mybatis-log-plus-2.0.5.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.5.zip)|IDEA 2020.2 ~ IDEA 2022.2+|
     | [mybatis-log-plus-2.0.4.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.4.zip)|IDEA 2020.2 ~ IDEA 2022.2+|
