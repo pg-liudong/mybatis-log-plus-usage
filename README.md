@@ -43,8 +43,8 @@ Mybatis Log Plus 是一款IDEA插件，可以将控制台输出的Mybatis日志�
     由于2020年9月IntelliJ项目的源代码迁移到了JDK11，有基于IntelliJ的IDE2020.3及以上版本都将需要JDK11才能启动。所以目前开发了以下几个版本，适用IDEA版本如下：
     |version              |IntelliJ IDEA version|
     |:--------------------------:|:--------------------------------|
-    | [mybatis-log-plus-3.0.3.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.3.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
-    | [mybatis-log-plus-3.0.2.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.2.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
+    | [mybatis-log-plus-3.0.3.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.3.zip)|IDEA 2022.2 ~ IDEA 2023.3+|
+    | [mybatis-log-plus-3.0.2.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.2.zip)|IDEA 2022.2 ~ IDEA 2023.2+|
     | [mybatis-log-plus-3.0.1.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.1.zip)|IDEA 2022.2 ~ IDEA 2023.1+|
     | [mybatis-log-plus-3.0.0.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-3.0.0.zip)|IDEA 2022.2 ~ IDEA 2022.3+|
     | [mybatis-log-plus-2.0.5.zip](https://github.com/pg-liudong/mybatis-log-plus-usage/raw/main/mybatis-log-plus-2.0.5.zip)|IDEA 2020.2 ~ IDEA 2022.2+|
